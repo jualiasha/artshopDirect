@@ -1,6 +1,7 @@
 name: artshopDirect
 recipe: drupal9
 config:
+  drush: "*"
   webroot: .
   services:
   phpmyadmin:
